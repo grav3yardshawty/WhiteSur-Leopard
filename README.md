@@ -1,4 +1,4 @@
-# WhiteSur-Retro
+# WhiteSur Leopard
 Old Safari theme for firefox based on the WhiteSur firefox theme by vinceliuice 
 
 ![Screenshot 1](https://i.imgur.com/lSuLtf7.png)
