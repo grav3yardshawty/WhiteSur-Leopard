@@ -33,4 +33,8 @@ with your user folder and profile folder
 2. Paste the "chrome" folder from the repository into the profile folder
 3. Restart firefox, and enjoy! at least until you realize how broken the theme is
 
+You will also most likely want to customize the toolbar to put the buttons to the right places. If you're used to them being in a certain spot, this theme will probably be really annoying to use
+
+At the very least its pretty to look at until you click too many buttons
+
    At the very least its pretty to look at until you click too many buttons
