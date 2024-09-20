@@ -12,7 +12,7 @@ feel free to try it if you are on another OS though
 
 If you are however on KDE Plasma, I would highly reccomend this [Aurorae theme](https://store.kde.org/p/1002696) for the titlebar to blend properly
 
-The theme is super unfinished, and i'm not actually good at css at all so it probably won't actually get finished
+This theme is super unfinished, and i'm not actually good at css at all so it probably won't actually get finished
 
 So if you want, feel free (please do) to fork and make it better if you are good at css. Though, it's effectively just a bunch of custom styling slapped onto and mixed into an entirely different theme, so I'm sure the code 
 is incredibly messy by the standards of those who know what they're doing
